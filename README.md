@@ -1,6 +1,8 @@
 # General
-The repository conatins notebooks of Statistics, Concept Visualization, etc
+The repository conatins notebooks explaning visualization of Statistics, Data Science Concepts, etc.
 
-Jupyter Notebooks-
-  1. Outlier with Linear Regression
-  2. 
+<h> Jupyter Notebooks </h>
+  
+  A. <b> Outlier with Linear Regression </b>
+  
+  B. <b> .......more to come
